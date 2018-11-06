@@ -97,7 +97,11 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
-# mkdocs documentation
+# Df_Files
+
+trocafone_kaggle_test.csv
+events_up_to_01062018.csv
+labels_training_set.csv
 /site
 
 # mypy
